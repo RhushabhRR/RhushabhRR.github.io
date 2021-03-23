@@ -22,10 +22,10 @@ Following are the possible contents from C perspective:
 - Enums and Structs
 - File IO operations
 
-According to the demand, concepts of C++ can also be included.
+Based on the demand, concepts of C++ can also be included.
 
 ### Outcome
-Unlike most of the certification courses, the current idea is to make students self-reliant. Focus will be more on forming a solid fundamentals which clears off the doubts among students enabling them to apply their skills. After making most out of the course, the possible outcomes are :
+Unlike most of the certification courses, the current idea is to make students self-reliant. Focus will be more on forming a solid fundamentals which clears off the doubts among students enabling them to apply their skills. After making most out of the course, the possible outcomes are
 - Good foundation of programming (C or C++)
 - Self-reliant in learning
 - Start applying their knowledge
@@ -34,7 +34,7 @@ Unlike most of the certification courses, the current idea is to make students s
 - Actively take part in mini-projects
 
 ### About me
-An embedded software engineer in Germany having a masters degree. I started learning programming during bachelors and doing various mini-projects. Even I used to memorize my lab programs until I figured out actual concepts behind it. Once, I solidifed my basics, my interest grew towards the same enabling me to learn more things continuously with help of few people. Currently, I'm focusing on making coding fun for people, put a stop to 'memorizing lab program' concept and also to boost confidence among students which enable them to confidently attend technical interviews and do their own projects.
+An embedded software engineer in Germany having a masters degree. I started learning programming during bachelors and doing various mini-projects. Even I used to memorize my lab programs until I figured out actual concepts behind it. Once, I solidifed my basics, my interest grew towards the same enabling me to learn more things continuously with help of few people. Currently, I'm focusing on making coding fun for people, put a stop to 'memorizing lab program' concept and also to boost confidence among students enabling them to attend technical interviews with confidence and do their own projects.
 
 
 
