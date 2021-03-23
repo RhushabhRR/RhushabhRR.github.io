@@ -33,7 +33,7 @@ Unlike most of the certification courses, the current idea is to make students s
 - Dead end to memorizing lab programs
 - Actively take part in mini-projects
 
-### About me
+### Contact & About me
 ***Rhushabh Raghavendra***(M.Sc - Embedded Systems) <br/>
 [LinkedIn](www.linkedin.com/in/rhushabh-raghavendra) <br/>
 Mail - rhushabhraghavendrarr@gmail.com <br/>
