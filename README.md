@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+A free and flexible course, for new minds;) in new ways!!!
+A means to an end for - relentless memorizing of lab programs, buying projects and clueless error messages.
 
-You can use the [editor on GitHub](https://github.com/RhushabhRR/RhushabhRR.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Target audience
+Students who are yet to start programming or those who have started and would like to strengthen their fundamentals.
+People of all ages and background are welcomed.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Possible contents 
+General concepts of programming which are same across multiple programming languages are taught. But the focus is on C or C++.
+Following are the possible contents from C perspective:
+- Program flow
+- Basic data types and operators
+- Debugging
+- IO operations
+- Functions
+- Header files
+- Control flow statements
+- Arrays and strings
+- Pointers and References
+- Scope and lifetime
+- Memory allocation
+- Enums and Structs
+- File IO operations
 
-### Markdown
+According to the demand, concepts of C++ can also be included.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Outcome
+Unlike most of the certification courses, the current idea is to make students self-reliant. Focus will be more on forming a solid fundamentals which clears off the doubts among students enabling them to apply their skills. After making most out of the course, the possible outcomes are :
+- Good foundation of programming (C or C++)
+- Self-reliant in learning
+- Start applying their knowledge
+- Figure out errors in the code and debug
+- Dead end to memorizing lab programs
+- Actively take part in mini-projects
 
-```markdown
-Syntax highlighted code block
+### About me
+An embedded software engineer in Germany having a masters degree. I started learning programming during bachelors and doing various mini-projects. Even I used to memorize my lab programs until I figured out actual concepts behind it. Once, I solidifed my basics, my interest grew towards the same enabling me to learn more things continuously with help of few people. Currently, I'm focusing on making coding fun for people, put a stop to 'memorizing lab program' concept and also to boost confidence among students which enable them to confidently attend technical interviews and do their own projects.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RhushabhRR/RhushabhRR.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
