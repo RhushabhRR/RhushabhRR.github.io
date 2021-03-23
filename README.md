@@ -35,8 +35,7 @@ Unlike most of the certification courses, the current idea is to make students s
 
 ### About me
 ***Rhushabh Raghavendra***(M.Sc - Embedded Systems) <br/>
-LinkedIn - www.linkedin.com/in/rhushabh-raghavendra
+[LinkedIn](www.linkedin.com/in/rhushabh-raghavendra) <br/>
+Mail - rhushabhraghavendrarr@gmail.com <br/>
+
 An embedded software engineer living in Germany. I started learning programming during bachelors and doing various mini-projects. Even I used to memorize my lab programs until I figured out actual concepts behind it. Once, I solidifed my basics, my interest grew towards the same enabling me to learn more things continuously with help of few people. Currently, I'm focusing on making coding fun for people, put a stop to 'memorizing lab program' concept and also to boost confidence among students enabling them to attend technical interviews with confidence and do their own projects.
-
-
-
