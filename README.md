@@ -1,5 +1,5 @@
-A free and flexible course, for new minds;) in new ways!!!
-A means to an end for - relentless memorizing of lab programs, buying projects and clueless error messages.
+A free and flexible course, for new minds;) in new ways!!!<br/>
+**A means to an end** for - *"relentless memorizing of lab programs, buying projects and clueless error messages".*
 
 ### Target audience
 Students who are yet to start programming or those who have started and would like to strengthen their fundamentals.
