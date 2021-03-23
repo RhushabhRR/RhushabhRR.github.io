@@ -22,7 +22,7 @@ Following are the possible contents from C perspective:
 - Enums and Structs
 - File IO operations
 
-Along with these, few exercises and small projects will also be provided for practice
+Along with these, few exercises and small projects will also be provided for practice.
 Based on the demand, concepts of C++ can also be included.
 
 ### Outcome
