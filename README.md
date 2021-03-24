@@ -1,4 +1,4 @@
-A free and flexible course, for new minds;) in new ways!!!<br/>
+A free and flexible online course, for new minds;) in new ways!!!<br/>
 **A means to an end** for - *"relentless memorizing of lab programs, buying projects and clueless error messages".*
 
 ### Target audience
